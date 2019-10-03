@@ -1,0 +1,80 @@
+.top-container {
+    height: 600px;
+
+    background-color: aquamarine
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mitr', sans-serif;
+}
+
+h1, h2, h3  {
+    font-family: 'Loved by the King', cursive;
+    font-weight: 700;
+}
+
+.cloud-wrapper {
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid red;
+    text-align: center;
+}
+
+
+
+.mountain {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.middle-container {
+    width: 75%;
+    margin: 0 auto;
+    border: 2px solid red;
+    text-align: center;
+}
+
+.profile {
+    padding-bottom: 3rem;
+}
+
+.profile img {
+    width: 100px;
+    padding: 2rem 0;
+}
+
+.profile h2 {
+    font-size: 3rem;
+}
+
+.skills {
+    border: 2px solid green;
+}
+
+.skills h2 {
+    font-size: 3rem;
+}
+
+.skills h3 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+.skills-image1 {
+    width: 150px;
+    float: left;
+    margin-right: 3rem;
+}
+
+.skills-row {
+    text-align: left;
+    margin-bottom: 2rem;
+}
